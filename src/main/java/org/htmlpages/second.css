@@ -1,0 +1,17 @@
+#fName, #lName, #address {
+    margin: 5px 0 2px 0;
+    border: 2px solid;
+}
+
+.sec-html {
+    display: grid;
+    justify-content: center;
+}
+
+.gender-div {
+    margin-top: 4px;
+}
+
+#address {
+    margin-left: 17px;
+}
